@@ -9,7 +9,7 @@ If you have any questions, feel free to ping me at elmer.morales@gmail.com or on
 
 Since this app isn't in the Windows Store, you'll need to use a method known as sideloading to run it on your Windows 8.1 PC. Please follow the steps below. 
 
-1. From your Windows 8.1 PC, navigate to the 'AppPackages/MessengerForWindows_1.0.0.0_AnyCPU_Test' directory.
+1. From your Windows PC, navigate to the 'AppPackages/MessengerForWindows_1.0.0.0_AnyCPU_Test' directory.
 2. Find the file 'Add-AppDevPackage.ps1' and right click.
 3. Select the "Run with Powershell" command from the right-click menu.
 4. Follow the on-screen instructions.
