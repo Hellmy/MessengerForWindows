@@ -1,0 +1,13 @@
+[Files]
+"C:\Content\Code\Projects\MessengerForWindows\MessengerForWindows\bin\Release\AppxManifest.xml" "AppxManifest.xml"
+"C:\Content\Code\Projects\MessengerForWindows\MessengerForWindows\bin\Release\MessengerForWindows.exe" "MessengerForWindows.exe"
+"C:\Content\Code\Projects\MessengerForWindows\MessengerForWindows\Assets\Logo.scale-100.png" "Assets\Logo.scale-100.png"
+"C:\Content\Code\Projects\MessengerForWindows\MessengerForWindows\Assets\SmallLogo.scale-100.png" "Assets\SmallLogo.scale-100.png"
+"C:\Content\Code\Projects\MessengerForWindows\MessengerForWindows\Assets\SplashScreen.scale-100.png" "Assets\SplashScreen.scale-100.png"
+"C:\Content\Code\Projects\MessengerForWindows\MessengerForWindows\Assets\Square310x310Logo.scale-100.png" "Assets\Square310x310Logo.scale-100.png"
+"C:\Content\Code\Projects\MessengerForWindows\MessengerForWindows\Assets\StoreLogo.scale-100.png" "Assets\StoreLogo.scale-100.png"
+"C:\Content\Code\Projects\MessengerForWindows\MessengerForWindows\Assets\Wide310x150Logo.scale-100.png" "Assets\Wide310x150Logo.scale-100.png"
+"C:\Content\Code\Projects\MessengerForWindows\MessengerForWindows\bin\Release\App.xbf" "App.xbf"
+"C:\Content\Code\Projects\MessengerForWindows\MessengerForWindows\bin\Release\MainPage.xbf" "MainPage.xbf"
+"C:\Content\Code\Projects\MessengerForWindows\MessengerForWindows\bin\Release\MessengerForWindows.xr.xml" "MessengerForWindows.xr.xml"
+"C:\Content\Code\Projects\MessengerForWindows\MessengerForWindows\bin\Release\resources.pri" "resources.pri"
