@@ -15,4 +15,4 @@ Since this app isn't in the Windows Store, you'll need to use a method known as 
 4. Follow the on-screen instructions.
 5. Once complete, the app should be available from your Start screen under the name "Messenger".
 
-To learn more about sideloading apps, please visit: https://technet.microsoft.com/en-us/windows/jj874388.aspx.
+Microsoft has an article on sideloading apps which is much more extensive than these instructions. Check it out if you get stuck. https://technet.microsoft.com/en-us/windows/jj874388.aspx.
