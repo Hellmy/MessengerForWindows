@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-  <Identity Name="9b1d1467-8d87-4850-88ae-b350669dbdd4" Publisher="CN=elmer" Version="1.0.0.0" />
+  <Identity Name="9b1d1467-8d87-4850-88ae-b350669dbdd4" Publisher="CN=elmer" Version="1.0.0.1" />
   <Properties>
     <DisplayName>MessengerForWindows</DisplayName>
     <PublisherDisplayName>elmer</PublisherDisplayName>

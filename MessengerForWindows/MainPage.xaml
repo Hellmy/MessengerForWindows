@@ -7,7 +7,14 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
 	RequestedTheme="Light"
     mc:Ignorable="d">
-
+	<Page.TopAppBar>
+		<AppBar x:Name="appBar" Background="#0083ff">
+			<StackPanel Orientation="Horizontal">
+				<AppBarButton Foreground="White" Icon="Message" Label="Home" x:Name="homeButton" Click="HomeButton_OnClick"/>
+				<AppBarButton Foreground="White" BorderBrush="White" Icon="OtherUser" Label="Login" x:Name="loginButton" Click="LoginButton_OnClick"/>
+			</StackPanel>
+		</AppBar>
+	</Page.TopAppBar>
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 		<WebView x:Name="messengerWeb" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"></WebView>
     </Grid>

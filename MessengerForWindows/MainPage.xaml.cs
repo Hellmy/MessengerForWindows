@@ -26,6 +26,20 @@ namespace MessengerForWindows
         {
             this.InitializeComponent();
 			messengerWeb.Navigate(new Uri("https://messenger.com"));
+	        appBar.IsOpen = true;
+	        appBar.IsSticky = false;
         }
+
+	    private void HomeButton_OnClick(object sender, RoutedEventArgs e)
+	    {
+			messengerWeb.Navigate(new Uri("https://messenger.com"));
+			appBar.IsOpen = false;
+	    }
+
+	    private void LoginButton_OnClick(object sender, RoutedEventArgs e)
+	    {
+			messengerWeb.Navigate(new Uri("https://www.messenger.com/login"));
+		    appBar.IsOpen = false;
+	    }
     }
 }

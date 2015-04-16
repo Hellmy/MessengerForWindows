@@ -1,1 +1,0 @@
-C:\Content\Code\Projects\MessengerForWindows\MessengerForWindows\MessengerForWindows.csproj;neutral
